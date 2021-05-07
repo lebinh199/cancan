@@ -20,7 +20,7 @@ echo "Running seed script..."
 echo "\nThis command may prompt you to install node to run.\nPlease accept and continue."
 # npm run seed -- 2
 
-URL="$(dfx canister id).$address:$port/sign-in"
+URL="$(dfx canister id cancan_ui).$address:$port/sign-in"
 
 echo "Open at $URL"
 
