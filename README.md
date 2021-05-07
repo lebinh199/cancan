@@ -13,7 +13,15 @@
 - [Python](https://www.python.org)
 - [Vessel@0.6.0](https://github.com/dfinity/vessel/releases/tag/v0.6.0)
 
-Double-check you have [vessel](https://github.com/dfinity/vessel) installed at version 0.6.0, then clone this repository and navigate to the `cancan` directory.
+If you don't have vessel yet you can install it by running an install script included in the project (if you're using OSX this step may require you to
+bypass security to allow the app to be run):
+
+```shell
+$ ./scripts/vessel-install.sh
+```
+
+Double-check you have [vessel](https://github.com/dfinity/vessel) installed at version 0.6.*, then clone this repository and navigate to the `cancan` directory.
+
 
 ```shell
 $ vessel --version
