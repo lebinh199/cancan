@@ -3,6 +3,7 @@
 Ứng dụng web (PWA) **giáo dục + game hoá** giúp sinh viên, giảng viên học – hành động – thi đua vì một **Green University**.
 
 - 📄 Tài liệu nghiên cứu & thiết kế: [`docs/NGHIEN-CUU.md`](docs/NGHIEN-CUU.md)
+- 📐 Phân tích chuẩn Đại học Xanh (UI GreenMetric 2026, THE, QS, văn bản VN) → người cần, tính năng ưu tiên: [`docs/CHUAN-DH-XANH.md`](docs/CHUAN-DH-XANH.md)
 - 🧩 Đây là **bản mẫu (MVP)**: dữ liệu lưu trên thiết bị, dữ liệu cộng đồng là mô phỏng.
 
 ## Tính năng
