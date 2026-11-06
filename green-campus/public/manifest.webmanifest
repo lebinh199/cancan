@@ -1,0 +1,10 @@
+{
+  "name": "GreenQuest – Green University",
+  "short_name": "GreenQuest",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f8f5",
+  "theme_color": "#1f7a4d",
+  "lang": "vi",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
