@@ -240,6 +240,8 @@ Micro-learning ←─────────────── gắn mã GreenM
 
 ---
 
+> Cách đo từng hành vi trong thực tế (từ chối nhựa, tiết kiệm nước…): xem [`DO-LUONG.md`](DO-LUONG.md).
+
 ## 6. Rủi ro khi định vị app là "minh chứng"
 
 | Rủi ro | Giảm thiểu |
